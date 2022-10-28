@@ -1,0 +1,30 @@
+.header__inline-menu ul li a {
+    font-size: 22px;
+    color: rgba(29, 29, 29, 0.7);
+    font-weight: 500;
+}
+
+.header__inline-menu ul li a .header__active-menu-item {
+    border-bottom: 4px solid #FFCB45;
+  text-decoration: none;
+}
+
+.header__inline-menu ul li a:hover span {
+  text-decoration: none;
+}
+
+nav.header__inline-menu ul li:not(:last-child) {
+    margin-right: 15px;
+}
+
+h2.image-with-text__heading.h1 {
+    font-weight: 600;
+}
+
+.section-bg.section-bg--early-dawn {
+  background-color: #FFF9EA;
+}
+
+.section-bg.section-bg--early-dawn .gradient.color-background-1 {
+    background: transparent;
+}

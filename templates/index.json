@@ -1,0 +1,309 @@
+{
+  "sections": {
+    "4ba02d44-3168-4a9c-98d0-2e9153e4e52c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16651829477694__4ba02d44-3168-4a9c-98d0-2e9153e4e52c-16661783597f60b236-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Be The Fastest In Delivery Your Food",
+            "heading_size": "h1"
+          }
+        },
+        "template--16651829477694__4ba02d44-3168-4a9c-98d0-2e9153e4e52c-16661783597f60b236-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16651829477694__4ba02d44-3168-4a9c-98d0-2e9153e4e52c-16661783597f60b236-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Started",
+            "button_link": "shopify:\/\/products\/how-to-learn-shopify"
+          }
+        }
+      },
+      "block_order": [
+        "template--16651829477694__4ba02d44-3168-4a9c-98d0-2e9153e4e52c-16661783597f60b236-0",
+        "template--16651829477694__4ba02d44-3168-4a9c-98d0-2e9153e4e52c-16661783597f60b236-1",
+        "template--16651829477694__4ba02d44-3168-4a9c-98d0-2e9153e4e52c-16661783597f60b236-2"
+      ],
+      "settings": {
+        "section_css_class": "section-bg section-bg--early-dawn",
+        "image": "shopify:\/\/shop_images\/img-hero.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "297b8ef9-6397-4a52-8b9d-6c3823ac7143": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>How it works<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>What we serve<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Product Quality Is Our Priority, And Always Guarantees Halal And Safety Until It Is In Your Hands.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "297b8ef9-6397-4a52-8b9d-6c3823ac7143",
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "084f0d44-96e2-44c2-845d-642783f8606a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16651829477694__084f0d44-96e2-44c2-845d-642783f8606a-16661783606d2a038c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/order_1.png",
+            "title": "Easy to order",
+            "text": "<p>You only order through the app<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16651829477694__084f0d44-96e2-44c2-845d-642783f8606a-16661783606d2a038c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/delivery_1.png",
+            "title": "Fastest Delivery",
+            "text": "<p>Delivery will be on time<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16651829477694__084f0d44-96e2-44c2-845d-642783f8606a-16661783606d2a038c-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/courier_1.png",
+            "title": "Best Quality",
+            "text": "<p>The best quality of food for you<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16651829477694__084f0d44-96e2-44c2-845d-642783f8606a-16661783606d2a038c-0",
+        "template--16651829477694__084f0d44-96e2-44c2-845d-642783f8606a-16661783606d2a038c-1",
+        "template--16651829477694__084f0d44-96e2-44c2-845d-642783f8606a-16661783606d2a038c-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f166e53b-d165-462a-8f58-fd3978b3c266": {
+      "type": "rich-text",
+      "blocks": {
+        "76ebd864-a71f-4fed-9e67-a56182050660": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Menu<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16651829477694__f166e53b-d165-462a-8f58-fd3978b3c266-1666178360180d552e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Popular Menu<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16651829477694__f166e53b-d165-462a-8f58-fd3978b3c266-1666178360180d552e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam<\/p>"
+          }
+        },
+        "template--16651829477694__f166e53b-d165-462a-8f58-fd3978b3c266-1666178360180d552e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "76ebd864-a71f-4fed-9e67-a56182050660",
+        "template--16651829477694__f166e53b-d165-462a-8f58-fd3978b3c266-1666178360180d552e-0",
+        "template--16651829477694__f166e53b-d165-462a-8f58-fd3978b3c266-1666178360180d552e-1",
+        "template--16651829477694__f166e53b-d165-462a-8f58-fd3978b3c266-1666178360180d552e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unsplash_G6wx5j5-dR8.png",
+            "title": "Mie Ramen",
+            "text": "<p>lorem ipsum<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unsplash_zBONkjGFGko.png",
+            "title": "Salad tahu",
+            "text": "<p>lorem ipsum<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unsplash_SqYmTDQYMjo.png",
+            "title": "Roti Bakar",
+            "text": "<p>lorem ipsum<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "81071d41-b3e2-4c8b-9aad-7a4f6dbbff4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unsplash_vg2p2BK57bY.png",
+            "title": "Spaghetti",
+            "text": "<p>lorem ipsum<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "81071d41-b3e2-4c8b-9aad-7a4f6dbbff4f"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c38ed3da-5ce8-4c38-a310-6928c0468e52": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16651829477694__c38ed3da-5ce8-4c38-a310-6928c0468e52-1666178356c4117e28-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join our member and get discount up to 50%",
+            "heading_size": "h1"
+          }
+        },
+        "template--16651829477694__c38ed3da-5ce8-4c38-a310-6928c0468e52-1666178356c4117e28-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Sign Up",
+            "button_link_1": "shopify:\/\/products\/how-to-learn-shopify",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16651829477694__c38ed3da-5ce8-4c38-a310-6928c0468e52-1666178356c4117e28-0",
+        "template--16651829477694__c38ed3da-5ce8-4c38-a310-6928c0468e52-1666178356c4117e28-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/discount.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "4ba02d44-3168-4a9c-98d0-2e9153e4e52c",
+    "rich_text",
+    "084f0d44-96e2-44c2-845d-642783f8606a",
+    "f166e53b-d165-462a-8f58-fd3978b3c266",
+    "multicolumn",
+    "c38ed3da-5ce8-4c38-a310-6928c0468e52"
+  ]
+}
